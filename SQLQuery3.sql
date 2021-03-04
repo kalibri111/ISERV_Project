@@ -1,0 +1,1 @@
+﻿SELECT Id FROM Class WHERE Class.Number = 3 AND Class.Letter = 's';
